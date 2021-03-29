@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 
-I'm a junior web developer currently a junior web developer training at [BeCode.org](https://becode.org/)
+I'm a junior web developer currently a web developer training at [BeCode.org](https://becode.org/)
 
 I like JS & React, PHP and Laravel and I'm learning Node.js and Express.js 
 
