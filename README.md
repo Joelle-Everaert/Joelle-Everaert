@@ -9,4 +9,3 @@ I love learning new thing every day, video games, comics books & training crossf
 
 <br/>
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Joelle-Everaert)](https://github.com/Joelle-Everaert/github-readme-stats)
