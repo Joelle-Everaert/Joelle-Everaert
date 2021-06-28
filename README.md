@@ -1,9 +1,9 @@
 ### Hi there 👋  
 
 
-I'm a junior web developer currently a web developer training at [BeCode.org](https://becode.org/)
+I'm a junior web developer and I followed an accelerated training at [BeCode.org](https://becode.org/) for 10 months.
 
-I like JS & React, PHP and Laravel and I'm learning Node.js and Express.js 
+My current strengths are JS/React & Node.js/Express.js, and I also have experience with PHP/Laravel.
 
 I love learning new thing every day, video games, comics books & training crossfit :grinning:
 
